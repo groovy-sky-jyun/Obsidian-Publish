@@ -11,14 +11,10 @@
             "id": "3542116979901d7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test/test note.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test note"
+              "title": "New tab"
             }
           }
         ]
@@ -171,8 +167,8 @@
   },
   "active": "3542116979901d7e",
   "lastOpenFiles": [
-    "test/test-note.html",
     "test/test note.md",
+    "test/test-note.html",
     "index.md",
     "test",
     "lib/search-index.json",
@@ -184,7 +180,6 @@
     "lib/scripts/graph-data.js",
     "lib/media/favicon.png",
     "lib/scripts/minisearch.js",
-    "lib/scripts/pixi.js",
     "lib/media/6155340132a851f6089e.svg"
   ]
 }
