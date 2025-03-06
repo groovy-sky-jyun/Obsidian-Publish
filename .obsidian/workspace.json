@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "test folder/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "test"
             }
           }
         ]
@@ -172,19 +172,24 @@
   },
   "active": "3542116979901d7e",
   "lastOpenFiles": [
-    "index.html",
+    "site-lib/search-index.json",
+    "site-lib/metadata.json",
+    "site-lib/styles/main-styles.css",
     "index.md",
+    "site-lib/styles/obsidian.css",
+    "site-lib/styles/global-variable-styles.css",
+    "site-lib/scripts/webpage.js",
+    "site-lib/scripts/graph-wasm.js",
+    "site-lib/scripts/graph-wasm.wasm",
+    "site-lib/scripts/graph-render-worker.js",
+    "site-lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "site-lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "site-lib/media/favicon.png",
+    "site-lib/media/6155340132a851f6089e.svg",
+    "site-lib/media/2308ab1944a6bfa5c5b8.svg",
+    "test folder/test.md",
     "test/testnote.md",
-    "netlify.toml",
-    "netlify.toml.txt",
-    "새 텍스트 문서.txt",
-    "test/testnote.html",
-    "test",
     "test/test note.md",
-    "test/test-note.html",
-    "test",
-    "lib/search-index.json",
-    "lib/metadata.json",
     "lib/media/favicon.png",
     "lib/media/6155340132a851f6089e.svg"
   ]
