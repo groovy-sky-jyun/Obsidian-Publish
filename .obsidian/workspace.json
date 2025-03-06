@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "test/testnote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "testnote"
             }
           }
         ]
@@ -166,14 +166,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "3542116979901d7e",
   "lastOpenFiles": [
+    "index.md",
+    "netlify.toml",
+    "netlify.toml.txt",
+    "새 텍스트 문서.txt",
     "test/testnote.html",
     "test/testnote.md",
-    "index.md",
     "index.html",
     "test",
     "test/test note.md",
@@ -181,9 +185,6 @@
     "test",
     "lib/search-index.json",
     "lib/metadata.json",
-    "lib/styles/obsidian.css",
-    "lib/styles/main-styles.css",
-    "lib/styles/global-variable-styles.css",
     "lib/media/favicon.png",
     "lib/media/6155340132a851f6089e.svg"
   ]
