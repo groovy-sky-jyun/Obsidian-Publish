@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test folder/test.md",
+                "file": "code test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "code test"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "3542116979901d7e",
   "lastOpenFiles": [
+    "code-test.html",
+    "code test.md",
+    "test folder/test.md",
     "site-lib/search-index.json",
     "site-lib/metadata.json",
     "site-lib/styles/main-styles.css",
@@ -183,11 +186,9 @@
     "site-lib/scripts/graph-wasm.wasm",
     "site-lib/scripts/graph-render-worker.js",
     "site-lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "site-lib/fonts/cb10ffd7684cd9836a05.woff2",
     "site-lib/media/favicon.png",
     "site-lib/media/6155340132a851f6089e.svg",
     "site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "test folder/test.md",
     "test/testnote.md",
     "test/test note.md",
     "lib/media/favicon.png",
